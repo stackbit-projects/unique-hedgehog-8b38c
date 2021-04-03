@@ -1,28 +1,6 @@
 ---
 title: Home
 sections:
-  - type: hero_section
-    title: Whare are we doing to
-    subtitle: Stop switching between calendars and task lists!
-    content: >-
-      App Land combines your work and home calendars with all your task
-      management tools into one seamless experience controlled by a single app
-      that you can use on any device.
-    actions:
-      - label: App Store
-        url: /pricing
-        style: primary
-      - label: Google Play
-        url: /pricing
-        style: secondary
-    image_alt: Hero section placeholder image
-    media_position: left
-    media_width: fifty
-    align: left
-    padding_top: large
-    padding_bottom: large
-    background_color: primary
-    background_image: images/happy-ant.jpg
   - type: grid_section
     title: What's Great About App Land?
     subtitle: In a Glance
